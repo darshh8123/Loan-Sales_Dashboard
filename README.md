@@ -25,7 +25,5 @@ The Dashboard
 Data Cleaning:(Dataset)
 <img width="800" height="338" alt="image" src="https://github.com/user-attachments/assets/420793dd-4026-48dd-93b0-4c39e9ec16bb" />
 
-Final Analysis:
-<img width="533" height="722" alt="image" src="https://github.com/user-attachments/assets/a723f2a6-1611-47d5-8bcb-b13eca86c836" />
 
 

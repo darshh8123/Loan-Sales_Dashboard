@@ -19,7 +19,8 @@ The interactive dashboard is organized into several sections for a clear overvie
 -Data Analysis: Applied to identify key trends and factors influencing loan outcomes.
 
 The Dashboard
-<img width="1146" height="645" alt="Screenshot 2025-08-12 024501" src="https://github.com/user-attachments/assets/29393680-9554-4bdb-a5db-8d0b4112674e" />
+<img width="1310" height="729" alt="image" src="https://github.com/user-attachments/assets/5ac63c15-9a12-4a46-b657-b7dd4b96de24" />
+
 
 Data Cleaning:(Dataset)
 <img width="800" height="338" alt="image" src="https://github.com/user-attachments/assets/420793dd-4026-48dd-93b0-4c39e9ec16bb" />
